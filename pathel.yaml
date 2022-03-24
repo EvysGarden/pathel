@@ -1,0 +1,40 @@
+%YAML 1.2
+---
+Pathel: A file mover daemon written in python
+Version: 1.0.0
+
+# Directories to watch (environment variables can be used with <Var>)
+Paths:
+- <HOME>/prg/pathel/oi # use HOMEPATH or UserProfile on windows
+- ai
+
+
+# File types to watch out for. everything else is ignored
+Files:
+  Pictures/Raster:
+  - jpg # save all .jpg files in Pictures
+  - png # save all .png files in Pictures
+  - gif
+  - jpeg
+  - jpg2
+  - webp
+  - bmp
+  Pictures/Scalable:
+  - svg # save all .svg files in Pictures/Scalable (Pictures\Scalable on windows)
+  Videos:
+  - mp4
+  - mkv
+  - avi
+  - webm
+  Audio:
+  - opus
+  - aac
+  - mp3
+  - flac
+  - ogg
+  Documents:
+  - pdf
+  - doc
+  - docx
+  - pptx
+
