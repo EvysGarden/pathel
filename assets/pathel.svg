@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/evy/Pictures/icons/apps/pathel.png"
+   inkscape:export-xdpi="202.5"
+   inkscape:export-ydpi="202.5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="pathel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.84472656"
+     inkscape:cx="111.87052"
+     inkscape:cy="307.2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,512"
+       orientation="0,512"
+       id="guide397" />
+    <sodipodi:guide
+       position="512,512"
+       orientation="512,0"
+       id="guide399" />
+    <sodipodi:guide
+       position="512,0"
+       orientation="0,-512"
+       id="guide401" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-512,0"
+       id="guide403" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid485"
+       spacingx="10"
+       spacingy="10"
+       color="#3f81ff"
+       opacity="0.1254902"
+       empcolor="#9f3fff"
+       empopacity="0.25098039"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.97375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 223.33483,481.13178 c 0,0 -77.70478,-133.4728 -34.46696,-220.71966 43.2378,-87.24684 -33.78931,-112.50736 -33.78931,-112.50736 L 35.630043,96.961017 c 0,0 11.413687,-4.143394 49.368977,9.387163 37.95532,13.53058 81.78688,30.45589 81.78688,30.45589 0,0 34.24108,18.83569 62.38972,-19.46492 28.14861,-38.30058 142.85674,36.97756 130.46851,129.04546 0,0 32.71796,28.6262 55.11619,103.8656 22.3982,75.23939 45.52247,181.29932 27.36446,133.3889 -18.158,-47.91042 -20.04396,-51.59663 -20.04396,-51.59663 0,0 21.64372,66.54626 12.27268,71.76422 0,0 33.42224,150.79906 30.22111,185.24344 0,0 50.26287,121.46536 42.0148,177.98528 0,0 -82.34189,-77.27239 -91.04496,-117.65113 0,0 5.32768,116.10215 -16.37027,138.68109 0,0 -76.05581,-178.25308 -94.75273,-281.17642 0,0 -73.13221,-64.95514 -81.08662,-125.75718 z"
+       id="path672" />
+  </g>
+</svg>
